@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Devang Jani:
 
 # 💫 About Me:
-"Data is just noise until someone makes it sing."<br><br>I'm that someone.Obsessed with patterns, hooked on insights,and falling deeper into AI & ML every single day.I don't just work with data  I wrestle it,clean it, question it, and build things that make people finally understand what the numbers mean.
-<br>The tech changes. The curiosity doesn't.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devang9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janidevang8@gmail.com) 
