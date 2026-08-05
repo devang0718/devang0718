@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devang Jani:
 
-# 💫 About Me:
+# About Me:
 
 
 ## 🌐 Socials:
@@ -32,8 +32,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-7952B3?style=flat&logo=openai&logoColor=white)
 
-**Deployment & Tools**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+**Deployment 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
