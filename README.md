@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Devang Jani:
 
 # About Me:
+Data Analyst with 1+ years turning messy data into decisions — using Python, SQL, and machine learning to tackle churn, fraud, and forecasting problems.
 
+At B&S Group, I've automated reports saving 3 hours a day, built an inventory system protecting £104K in monthly value, and flagged churn risk across 4,400+ customers.
+
+Outside work, I build ML models for fun — churn prediction, fraud detection, sales forecasting — because I like knowing the numbers actually hold up.
+
+Always up for a chat about data or models.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devang9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janidevang8@gmail.com) 
