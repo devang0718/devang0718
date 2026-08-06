@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Devang Jani:
 
 # About Me:
-Data Analyst with 1+ years turning messy data into decisions — using Python, SQL, and machine learning to tackle churn, fraud, and forecasting problems.
+Data Analyst with 1+ years turning messy data into decisions using Python, SQL, and machine learning to tackle churn, fraud, and forecasting problems.
 
 At B&S Group, I've automated reports saving 3 hours a day, built an inventory system protecting £104K in monthly value, and flagged churn risk across 4,400+ customers.
 
-Outside work, I build ML models for fun — churn prediction, fraud detection, sales forecasting — because I like knowing the numbers actually hold up.
+Outside work, I build ML models for fun churn prediction, fraud detection, sales forecasting because I like knowing the numbers actually hold up.
 
 Always up for a chat about data or models.
 
